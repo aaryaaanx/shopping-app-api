@@ -23,7 +23,7 @@ const ViewAll = () => {
                             <thead>
                                 <tr>
                                     
-                                    <th scope="col">ID </th>
+                                    <th scope="col">ID</th>
                                     <th scope="col">Title</th>
                                     <th scope="col">Price</th>
                                     <th scope="col">Description</th>
